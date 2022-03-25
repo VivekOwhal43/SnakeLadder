@@ -13,7 +13,7 @@ namespace SnakeLadder
             Console.WriteLine("Let's Play\n");
             Console.WriteLine("Currently you are at 0 Position\n");
 
-            int totalBoardNumber = 100, diceNumber, currentBoardPosition = 0;
+            int totalBoardNumber = 100, diceNumber, currentBoardPosition = 0, countDiceRolls = 1;
 
 
             Random random = new Random();
@@ -48,9 +48,12 @@ namespace SnakeLadder
                 {
                     currentBoardPosition = 0;
                 }
+                countDiceRolls += 1;
 
                 Console.WriteLine($"\nYou are now at position : {currentBoardPosition}");
             }
+
+            Console.WriteLine($"Number of times dice rolls to win : {countDiceRolls}");
             Console.ReadLine();
         }
     }
