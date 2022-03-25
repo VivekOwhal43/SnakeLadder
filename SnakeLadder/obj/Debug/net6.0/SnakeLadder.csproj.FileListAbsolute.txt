@@ -1,0 +1,15 @@
+/home/vivek/bridgelabz/Day-3/SnakeLadder/SnakeLadder/bin/Debug/net6.0/SnakeLadder
+/home/vivek/bridgelabz/Day-3/SnakeLadder/SnakeLadder/bin/Debug/net6.0/SnakeLadder.deps.json
+/home/vivek/bridgelabz/Day-3/SnakeLadder/SnakeLadder/bin/Debug/net6.0/SnakeLadder.runtimeconfig.json
+/home/vivek/bridgelabz/Day-3/SnakeLadder/SnakeLadder/bin/Debug/net6.0/SnakeLadder.dll
+/home/vivek/bridgelabz/Day-3/SnakeLadder/SnakeLadder/bin/Debug/net6.0/ref/SnakeLadder.dll
+/home/vivek/bridgelabz/Day-3/SnakeLadder/SnakeLadder/bin/Debug/net6.0/SnakeLadder.pdb
+/home/vivek/bridgelabz/Day-3/SnakeLadder/SnakeLadder/obj/Debug/net6.0/SnakeLadder.csproj.AssemblyReference.cache
+/home/vivek/bridgelabz/Day-3/SnakeLadder/SnakeLadder/obj/Debug/net6.0/SnakeLadder.GeneratedMSBuildEditorConfig.editorconfig
+/home/vivek/bridgelabz/Day-3/SnakeLadder/SnakeLadder/obj/Debug/net6.0/SnakeLadder.AssemblyInfoInputs.cache
+/home/vivek/bridgelabz/Day-3/SnakeLadder/SnakeLadder/obj/Debug/net6.0/SnakeLadder.AssemblyInfo.cs
+/home/vivek/bridgelabz/Day-3/SnakeLadder/SnakeLadder/obj/Debug/net6.0/SnakeLadder.csproj.CoreCompileInputs.cache
+/home/vivek/bridgelabz/Day-3/SnakeLadder/SnakeLadder/obj/Debug/net6.0/SnakeLadder.dll
+/home/vivek/bridgelabz/Day-3/SnakeLadder/SnakeLadder/obj/Debug/net6.0/ref/SnakeLadder.dll
+/home/vivek/bridgelabz/Day-3/SnakeLadder/SnakeLadder/obj/Debug/net6.0/SnakeLadder.pdb
+/home/vivek/bridgelabz/Day-3/SnakeLadder/SnakeLadder/obj/Debug/net6.0/SnakeLadder.genruntimeconfig.cache
