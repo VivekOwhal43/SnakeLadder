@@ -33,3 +33,27 @@ Random random = new Random();
 
 
                 }*/
+
+
+
+                switch (choice)
+            {
+                case 1:
+                    Console.WriteLine("You have chosen not to play");
+                    break;
+                case 2:
+                    Console.WriteLine("You have chosen to play");
+                    break;
+                case 3:
+                    Console.WriteLine("You have chosen Ladder");
+                    break;
+                case 4:
+                    Console.WriteLine("You have chosen Snake");
+                    break;
+                case 5:
+                    Console.WriteLine("You have chosen Exit");
+                    break;
+                default:
+                    Console.WriteLine("Enter Number Between 1 to 5");
+                    break;
+            }
