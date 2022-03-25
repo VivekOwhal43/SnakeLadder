@@ -1,0 +1,35 @@
+Random random = new Random();
+
+            while (dice_score <= winningPosition)
+            {
+                //for (attempt_number = 1; attempt_number <= winningPosition; attempt_number++)
+                //{
+                dieRoll = random.Next(1, 7);
+                
+
+                Console.WriteLine("\nWelcome To Snake Ladder Problem");
+                Console.WriteLine($"Attempt number {attempt_number}");
+                Console.WriteLine("Die is rolling");
+
+                Console.WriteLine($"Die Result {dieRoll}");
+                dice_score += dieRoll;
+                if (dice_score >= winningPosition)
+                {
+                    dice_score = dice_score - dieRoll;
+                }
+                else if (dice_score == winningPosition)
+                {
+                    Console.WriteLine("Won");
+                }
+                else
+                {
+
+                    Console.WriteLine($"Your at position {dice_score}");
+                }
+                //}
+
+                /*for (attempt_number = 1; attempt_number == winningPosition; attempt_number++)
+                {
+
+
+                }*/
